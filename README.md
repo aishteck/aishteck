@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **with developing scalable AI automation solutions and refining data extraction techniques to enhance the efficiency and accuracy of our projects.**
 
-- 💬 Ask me about ** AI automation, web scraping, data extraction, Python development, and machine learning applications.**
+- 💬 Ask me about **AI automation, web scraping, data extraction, Python development, and machine learning applications.**
 
 - 📫 How to reach me **get.aishaa@gmail.com**
 
